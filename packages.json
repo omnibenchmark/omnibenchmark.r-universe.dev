@@ -4,5 +4,11 @@
     "url": "https://github.com/omnibenchmark/obkit",
     "subdir": "r/obkit",
     "branch": "main"
+  },
+  {
+    "package": "picklerick",
+    "url": "https://github.com/btraven00/scx",
+    "subdir": "r/picklerick",
+    "branch": "main"
   }
 ]
